@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(123, 72, 136);
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    border-style: groove;
+    width: 35%;
+    padding: 10pt;
+}
+
+label{
+    font-size: 15pt;
+}
+
+input[type=button]{
+    width: 140px;
+    height: 25px;
+    font-weight: bold;
+}
+
+div input[type=button]{
+    margin: 5px;
+}
